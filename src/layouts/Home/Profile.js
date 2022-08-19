@@ -28,12 +28,12 @@ const ProfileText = ({ visible, titleId }) => (
     </Text>
     <Text className={styles.description} data-visible={visible} size="l" as="p">
       In my spare time I like to practice various kinds of programming to enhance my
-      skills, and I am studying Economics for blockchain.
-      <br /> I'm always down for hearing about new projects, so feel free to drop me a
+      skills and I am studying Economics for blockchain.
+      <br /> I am always down for hearing about new projects so feel free to drop me a
       line.
     </Text>
     <Text className={styles.quote} data-visible={visible} size="l" as="p">
-      "The only impossible journey is the one you never begin."
+      The only impossible journey is the one you never begin.
     </Text>
     <Text
       className={styles.description}
