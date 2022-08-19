@@ -24,7 +24,7 @@ const ProfileText = ({ visible, titleId }) => (
       I’m Oscar, And I am 27. Recently I have worked as a senior Developer at{' '}
       <Link href="https://www.symphonycorp.com/">Symphony Corp </Link>. <br /> My projects
       include Front-End, Web3, Smart Contract, Backend, Mobile App. <br />I have done more
-      works but I'd like to show it to you via privately.
+      works but I&apos;d like to show it to you via privately.
     </Text>
     <Text className={styles.description} data-visible={visible} size="l" as="p">
       In my spare time I like to practice various kinds of programming to enhance my
@@ -33,7 +33,7 @@ const ProfileText = ({ visible, titleId }) => (
       line.
     </Text>
     <Text className={styles.quote} data-visible={visible} size="l" as="p">
-      "The only impossible journey is the one you never begin."
+    &quot;The only impossible journey is the one you never begin.&quot;
     </Text>
     <Text
       className={styles.description}
