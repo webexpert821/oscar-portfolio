@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "homepage": "https://hamishw.com",
   "description": "Portfolio site for Oscar Peterson",
-  "author": "Oscar Peterson <hello@hamishw.com>",
+  "author": "Oscar Peterson <tolmany2108@gmail.com>",
   "devDependencies": {
     "@mapbox/rehype-prism": "^0.8.0",
     "@storybook/addon-a11y": "^6.4.22",
@@ -73,6 +73,6 @@
   },
   "engines": {
     "npm": ">=8.6.0",
-    "node": ">=18.0.0"
+    "node": ">=16.0.0"
   }
 }
