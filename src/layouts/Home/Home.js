@@ -92,8 +92,8 @@ export const Home = () => {
   return (
     <div className={styles.home}>
       <Meta
-        title="Blockchain + Frontend"
-        description="Design portfolio of Oscar Peterson — a FullStack Developer working on web & mobile
+        title="Senior Web Developer"
+        description="Design portfolio of Oscar Peterson — a Senior Web Developer working on web & mobile
           apps with a focus on blockchain."
       />
       <Intro
