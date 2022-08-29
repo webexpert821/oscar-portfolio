@@ -94,7 +94,7 @@ export const Home = () => {
       <Meta
         title="Senior Web Developer"
         description="Design portfolio of Oscar Peterson — a Senior Web Developer working on web & mobile
-          apps with a focus on blockchain."
+          apps with a focus on blockchain in the Norway."
       />
       <Intro
         id="intro"

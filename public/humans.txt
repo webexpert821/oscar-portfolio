@@ -14,8 +14,14 @@ TECHNOLOGY | TEKNOLOGI
 
 React
 Next.js
-Three.js
-Framer Motion
+Node.js
+Typescript
+Material UI
+Tailwind CSS
+Web3.js
+Solidity
+Smart Contract
+
 
 _______________________________________________________________________________
 

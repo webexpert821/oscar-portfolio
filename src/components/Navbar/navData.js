@@ -31,7 +31,7 @@ export const socialLinks = [
   },
   {
     label: 'Telegram',
-    url: 'https://t.me/tolmany',
+    url: 'https://t.me/tolmany21',
     icon: 'telegram',
   },
 ];

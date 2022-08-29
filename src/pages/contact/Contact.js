@@ -104,7 +104,7 @@ export const Contact = () => {
               style={getDelay(tokens.base.durationS, initDelay)}
               autoComplete="off"
               label="Phone"
-              value="+1 908 799 4009"
+              value="+1 850 659 6662"
             />
             <Transition in={statusError} timeout={msToNum(tokens.base.durationM)}>
               {errorStatus => (
