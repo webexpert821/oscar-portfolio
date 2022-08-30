@@ -14,7 +14,6 @@ export const Meta = ({ title, description, prefix = name, ogImage = defaultOgIma
       <meta key="description" name="description" content={description} />
       <meta name="author" content={name} />
 
-      <meta property="og:image" content={ogImage} />
       <meta property="og:image:alt" content="Banner for the site" />
       <meta property="og:image:type" content="image/png" />
       <meta property="og:image:width" content="1280" />
