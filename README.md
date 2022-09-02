@@ -43,6 +43,7 @@ npm run deploy
 Deploy serverless functions:
 
 ```bash
+
 cd functions
 ```
 
