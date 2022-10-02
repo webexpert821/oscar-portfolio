@@ -70,7 +70,7 @@ import styles from './SmartSparrow.module.css';
 const Earth = dynamic(() => import('./Earth').then(mod => mod.Earth));
 const EarthSection = dynamic(() => import('./Earth').then(mod => mod.EarthSection));
 
-const title = 'Developing next-generation Metaverse';
+const title = 'Developing Website on Metaverse';
 const description =
   'I worked as the Frontend and Smart Contract developer for Metareverse produce. We developed this platform, focusing on providing great user experience.';
 const roles = ['Frontend Development', 'Web3 Development', 'Smart Contract Development'];
