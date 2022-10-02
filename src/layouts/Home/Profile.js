@@ -21,8 +21,8 @@ const ProfileText = ({ visible, titleId }) => (
       <DecoderText text="Hi there" start={visible} delay={500} />
     </Heading>
     <Text className={styles.description} data-visible={visible} size="l" as="p">
-      I’m Oscar, And I am 27. Recently I have worked as a senior Developer at{' '}
-      <Link href="https://www.symphonycorp.com/">Symphony Corp </Link>. <br /> My projects
+      I’m Araki, And I am 27. Recently I have worked as a senior Developer at{' '}
+      <Link href="https://www.purestake.com/">Pure Stack </Link>. <br /> My projects
       include Front-End, Web3, Smart Contract, Backend, Mobile App. <br />I have done more
       works but I would like to show it to you via privately.
     </Text>

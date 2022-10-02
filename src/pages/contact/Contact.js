@@ -94,7 +94,7 @@ export const Contact = () => {
               autoComplete="email"
               label="Your Email"
               type="email"
-              value="tolmany2108@gmail.com"
+              value="passionatedeveloper0821@gmail.com"
               // {...email}
             />
             <Input

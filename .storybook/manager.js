@@ -5,7 +5,7 @@ addons.setConfig({
   theme: {
     ...themes.dark,
     brandImage: 'https://hamishw.com/icon.svg',
-    brandTitle: 'Hamish Williams Components',
+    brandTitle: 'Araki Itsuki Components',
     brandUrl: 'https://hamishw.com',
   },
 });

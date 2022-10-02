@@ -7,7 +7,7 @@ export const Footer = ({ className }) => (
   <footer className={classes(styles.footer, className)}>
     <Text size="s" align="center">
       <span className={styles.date}>
-        {`© ${new Date().getFullYear()} Oscar Peterson.`}
+        {`© ${new Date().getFullYear()} Araki Itsuki.`}
       </span>
     </Text>
   </footer>

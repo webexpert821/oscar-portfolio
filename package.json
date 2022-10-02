@@ -2,8 +2,8 @@
   "name": "portfolio",
   "version": "1.0.0",
   "homepage": "https://hamishw.com",
-  "description": "Portfolio site for Oscar Peterson",
-  "author": "Oscar Peterson <tolmany2108@gmail.com>",
+  "description": "Portfolio site for Araki Itsuki",
+  "author": "Araki Itsuki <passionatedeveloper0821@gmail.com>",
   "devDependencies": {
     "@mapbox/rehype-prism": "^0.8.0",
     "@storybook/addon-a11y": "^6.4.22",

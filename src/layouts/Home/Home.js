@@ -93,7 +93,7 @@ export const Home = () => {
     <div className={styles.home}>
       <Meta
         title="Senior Web Developer"
-        description="Design portfolio of Oscar Peterson — a Senior Web Developer working on web & mobile
+        description="Design portfolio of Araki Itsuki — a Senior Web Developer working on web & mobile
           apps with a focus on blockchain in the Norway."
       />
       <Intro
